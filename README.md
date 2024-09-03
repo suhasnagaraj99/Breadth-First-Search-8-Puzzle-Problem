@@ -3,6 +3,8 @@
 ## Project Description
 This repository contains the code for solving the 8-puzzle problem using the Breadth-First Search (BFS) algorithm. The project was developed as part of ENPM661 Project 1.
 
+![Video GIF](https://github.com/suhasnagaraj99/Breadth-First-Search-8-Puzzle-Problem/blob/main/bfs.gif)
+
 ## Running the Main Code
 
 Before running the main code, please follow these steps:
